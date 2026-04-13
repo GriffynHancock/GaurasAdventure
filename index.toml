@@ -3306,6 +3306,10 @@ hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "249d371746e55dbf5d4c8505ed82dca05534dd9b07ec41d98f581c4b5dbec91b"
+
+[[files]]
 file = "patchouli_books/guide/modpack/book.json"
 hash = "5062940559e2c907ef5140fb559046804eb2438d5b790f25cc200e474cd27448"
 
