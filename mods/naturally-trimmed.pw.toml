@@ -1,6 +1,6 @@
 name = "Naturally Trimmed"
 filename = "naturally_trimmed-3.3.0+1.21-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hHVaPgFK/versions/kHiXc4Wh/naturally_trimmed-3.3.0%2B1.21-neoforge.jar"

@@ -1,6 +1,6 @@
 name = "Through the lily pads, gently"
 filename = "through_the_lilypads_gently--mc1.21.1--neoforge--1.2.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i8eTQgbq/versions/d7bFC8AY/through_the_lilypads_gently--mc1.21.1--neoforge--1.2.3.jar"
