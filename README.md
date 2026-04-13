@@ -1,29 +1,38 @@
 # Installation
 
-## 1. Java
-Install [Temurin JRE 25](https://adoptium.net/en-GB/temurin/releases?version=25&package=jre) — choose your OS and architecture from the dropdown.
+## Option A — Prism Launcher (recommended for most players)
 
-## 2. Launcher
-Install [Prism Launcher](https://prismlauncher.org/download/) — this is required to load packwiz modpacks via URL.
+1. Install [Prism Launcher](https://prismlauncher.org/download/)
+2. Install [Temurin JRE 21](https://adoptium.net/en-GB/temurin/releases?version=21&package=jre) — pick your OS/arch
+3. In Prism: `Settings → Java → Java Runtime` → point to your Temurin install. Recommended memory: **4–6 GB** (`-Xmx6G`)
+4. Download `pack.mrpack` from this repo (latest release or directly from the file list)
+5. Prism → **Add Instance** → **Import** → select the downloaded `pack.mrpack`
+6. Hit **Play** — NeoForge installs automatically
 
-> ModrinthApp does **not** support packwiz URLs. Use Prism.
+## Option B — Packwiz (for mod developers / pack maintainers)
 
-## 3. Configure Java in Prism
-`Settings → Java → Java Runtime` → point it to your Temurin install.  
-Recommended memory: **4–6 GB** (`-Xmx6G`).
+Packwiz lets Prism auto-update from this repo on every launch.
 
-## 4. Import the Modpack
-1. Prism Launcher → **Add Instance**
-2. Select **From URL**
-3. Paste:
+1. Install [Prism Launcher](https://prismlauncher.org/download/)
+2. Prism → **Add Instance** → **Custom** → set MC version to `1.21.1` + NeoForge `21.1.226`
+3. In the instance, go to **Edit** → **Mods** → install [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases) as a pre-launch command:
    ```
-   https://griffynhancock.github.io/GaurasAdventure/pack.toml
+   $INST_JAVA -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/GaurahariDas2000/GaurasAdventure/master/modpack-pw/pack.toml
    ```
-4. Click **OK** — Prism downloads all mods automatically.
-
-## 5. Launch
-Hit **Play**. NeoForge 1.21.1 is bundled; no separate installer needed.
+4. Mods auto-download and update on every launch
 
 ---
 
-**MC Version:** 1.21.1 · **Modloader:** NeoForge 21.1.222 · **Mods:** ~197 client-side
+**MC Version:** 1.21.1 · **Modloader:** NeoForge 21.1.226 · **Mods:** ~197 client-side
+
+---
+
+## Rebuilding pack.mrpack (maintainers)
+
+After adding/updating mods in `modpack-pw/mods/`, regenerate the mrpack:
+
+```bash
+python3 build_mrpack.py
+```
+
+Commit both the updated `modpack-pw/` tree and `modpack-pw/pack.mrpack`.
