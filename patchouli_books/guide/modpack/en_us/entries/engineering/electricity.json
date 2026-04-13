@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Create New Age bridges Create's rotation system into Forge Energy (FE), the standard power format used by most tech mods.$(br2)$(bold)Alternator:$() Attach to a shaft. Rotation in → FE out. The faster the shaft spins, the more power it generates."
+      "text": "Create: New Age integrates Create's rotation network with Forge Energy (FE) — the standard power format shared by most tech mods. Rotation becomes electricity, and electricity becomes rotation.$(br2)$(bold)Alternator:$() Mount on any rotating shaft. Converts RPM → FE. Output scales with shaft speed — faster spin, more power."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Motor:$() Consume FE to produce rotation. Useful for running Create machines off a solar or nuclear power source.$(br2)$(bold)Solar Panels:$() Low-output but passive. Good for low-drain setups.$(br2)$(bold)Nuclear Reactor:$() High-output, needs fuel and cooling. Build this when you need serious FE for late-game Create addons."
+      "text": "$(bold)Electric Motor:$() The reverse — consumes FE to produce rotation. Useful when you want to power Create machines from a solar or nuclear source.$(br2)$(bold)Solar Panels:$() Passive, low output. Fine for small draws or supplementing a larger grid.$(br2)$(bold)Nuclear Reactor:$() Serious late-game infrastructure. High FE output, needs fuel rods and active cooling."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Why you need this:$() Several Create addon machines (and some other late-game mods in this pack) require FE rather than direct rotation. Set up at least a basic electrical grid before going deep into addon content."
+      "text": "$(bold)Why bother:$() Several Create addons installed in this pack require FE rather than direct rotation. Getting an Alternator onto your existing Create network takes minutes and unlocks a significant portion of late-game content.$(br2)Start with a solar panel or a small alternator on a windmill shaft. Scale up from there."
     }
   ]
 }

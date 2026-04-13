@@ -6,16 +6,16 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Craft an Iron Hook as soon as you have iron. It's one of the best early-game items in the pack.$(br2)Shoot it with right-click. You'll pull toward whatever it hits. If you're falling, shoot the wall — you'll hang. Shoot the ceiling — you'll hang from it."
+      "text": "Hooked makes grappling hooks feel simple, natural, and genuinely useful — not a gimmick.$(br2)Craft an Iron Hook as soon as you have iron. Right-click to fire, and you'll swing toward whatever it latches onto. Hit a wall mid-fall and you'll hang from it. Hit the ceiling and you'll dangle. It integrates cleanly with ParCool movement."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Tiers:$()$(br)Iron Hook — basic, gets you around$(br)Diamond Hook — faster pull speed$(br)Ender Hook — fastest, longer range$(br2)$(bold)Multiple hooks:$() If you fire two hooks into different walls, you hover at their midpoint. Useful for bridging gaps or staying in position for ranged combat."
+      "text": "$(bold)Tiers:$()$(br)$(bold)Iron Hook$() — baseline range and pull speed$(br)$(bold)Diamond Hook$() — faster pull$(br)$(bold)Ender Hook$() — longest range, fastest$(br2)$(bold)Two hooks:$() Fire into two different surfaces and you'll hover at their midpoint. Good for holding position during ranged or spell combat, or for crossing large gaps."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "hooked:iron_hook",
-      "text": "Iron + sticks. Upgrade to Diamond and Ender versions the same way with better materials."
+      "text": "Iron ingots + sticks. Upgrade to Diamond and Ender tiers with the same recipe using better materials."
     }
   ]
 }

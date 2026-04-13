@@ -1,20 +1,20 @@
 {
-  "name": "Block Factory's Bosses",
+  "name": "Bosses' Rise",
   "category": "guide:bosses",
   "icon": "minecraft:dragon_head",
   "sortnum": 0,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Four bosses spawn in the world as structures. Explore to find them — they don't announce themselves.$(br2)$(bold)Dragon$() — Fire attacks, flying. Drops Dragon Armor pieces (Netherite-tier, built-in fire resistance). May need multiple kills for full set."
+      "text": "$(bold)Bosses' Rise$() drops four souls-like encounters into the world as structures. They don't mark themselves on your map. You find them by exploring — and you'll know when you've found one.$(br2)$(bold)Dragon$() — Aerial, fire-breathing. The fight is about windows: survive the dives, punish the landings. Drops Dragon Armor — Netherite-tier with innate fire resistance. May require multiple kills for a full set."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Yeti$() — Ice and knockback attacks. Drops Yeti Armor and ice-themed weapons.$(br2)$(bold)Sand Worm$() — Emerges from desert biomes, poison attacks. Drops unique weapons and Sand Worm Armor.$(br2)$(bold)Knight$() — Melee-heavy, high defense. Drops Knight Armor set."
+      "text": "$(bold)Yeti$() — Ice attacks and brutal knockback. Rewards aggression and punishes standing still. Drops Yeti Armor and ice-infused weapons.$(br2)$(bold)Sand Worm$() — Surfaces from desert ground without warning, poisons on contact. Drops Sand Worm Armor and unique weapons.$(br2)$(bold)Knight$() — High defense, relentless melee. A fight of patience and pattern recognition. Drops the full Knight Armor set."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Tips:$() Use Epic Fight battle mode for all of these — vanilla combat won't cut it at this tier. Holy spells (Iron's Spellbooks) make a big difference for sustain during long fights. Bring backup gear — these hits are heavy.$(br2)Drops are not guaranteed per kill. Plan for multiple runs."
+      "text": "$(bold)Approach:$() These are designed as souls-like encounters. Vanilla hit-trading will get you killed. Use Epic Fight's battle mode — dodge timing matters. Holy spells from Iron's Spellbooks are strong sustain picks for long fights.$(br2)Drops are not guaranteed per kill. Come prepared for multiple runs. These hits are heavy."
     }
   ]
 }

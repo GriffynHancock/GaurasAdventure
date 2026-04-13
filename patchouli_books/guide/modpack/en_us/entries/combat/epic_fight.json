@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Press $(bold)R$() to toggle Battle Mode. In Battle Mode your attacks become directional combos and you gain access to dodge.$(br2)$(bold)Dodge:$() Hold Sneak + movement direction. Costs stamina. The stamina bar appears bottom-left of your screen."
+      "text": "Epic Fight transforms Minecraft into souls-like combat — deliberate, directional, and punishing if you play passively.$(br2)Press $(bold)R$() to enter Battle Mode. In Battle Mode your attacks chain into combos and you gain access to dodge. Outside of it, you fight like vanilla.$(br2)$(bold)Dodge:$() L-Shift + movement direction. Costs stamina. The stamina bar sits bottom-left of your screen."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Stamina is shared with ParCool.$() Wall-runs, vaults, and parkour moves drain the same bar as dodging. Manage it — running out mid-fight means no dodges.$(br2)$(bold)Combos:$() Hold attack to chain hits. Each weapon type has different combo patterns. Experiment."
+      "text": "$(bold)Stamina is shared with ParCool.$() Every vault, wall-run, and slide draws from the same bar as your dodges. Running out mid-fight means you eat every hit. Manage it.$(br2)$(bold)Combos:$() Click to start, hold or click again to chain. Each weapon class has its own pattern — axes, swords, and greatswords all feel different. Explore them."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Skill Tree:$() Find Skill Books in loot. Basic skills spawn in Ruined Portals; advanced skills come from dungeons and cities.$(br2)The skill tree has 9 categories. Pick a direction early — trying to spread points thin doesn't work well. Warrior, Berserker, and Rogue are strong starting paths."
+      "text": "$(bold)Skill Tree:$() Find Skill Books in world loot. Basic skills appear in Ruined Portals; advanced skills come from dungeons and end cities.$(br2)The tree has multiple categories — commit to a direction early. Spread builds underperform at this pack's boss tier. $(bold)Warrior$(), $(bold)Berserker$(), and $(bold)Rogue$() are reliable starting paths."
     }
   ]
 }

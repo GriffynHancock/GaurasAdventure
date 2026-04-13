@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Here's what's in this pack and roughly what to do with it.$(br2)$(bold)Early game:$() Get iron fast. Craft a hookshot (Iron Hook) — it changes how the whole map feels. Parkour moves (vaults, wall-runs) are available immediately."
+      "text": "This is a pack built around movement, combat, magic, and machines — all at once.$(br2)$(bold)Early:$() Iron first. Craft a Hookshot (Iron Hook) immediately — it changes how the world feels to move through. Parkour is available from spawn: vaults, wall-jumps, slides. No unlock required."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Mid game:$() Explore for Mowzie's Mobs bosses. Start a Create setup — even a water wheel and a few machines goes a long way. Learn a spell school or two.$(br2)$(bold)Late game:$() Kill Block Factory bosses for top-tier armor. Build electricity with Create New Age. Go deep on the skill tree."
+      "text": "$(bold)Mid:$() Start learning Epic Fight's battle mode and commit to a direction in the skill tree. Explore biomes for Mowzie's Mobs boss structures — fluid animations, unique AI, and abilities worth claiming. Get a Create water wheel running and build from there. Pick a spell school.$(br2)$(bold)Late:$() Hunt the Bosses' Rise encounters for top-tier armor. Wire your Create network into electricity via Create: New Age. Go deep on the skill tree."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Recipe viewers:$() EMI is your main browser (left side of screen). JEI is also loaded for Create addon compatibility but its panel is hidden — use EMI for browsing.$(br2)Read the Controls page before you start. There are a few key conflicts you'll want to fix."
+      "text": "$(bold)Recipe browsers:$() EMI is your main tool (left panel in inventory). JEI is also loaded for Create addon compatibility but its panel is hidden — use EMI for everything.$(br2)$(bold)Read the Controls page first.$() Several keys have been remapped from vanilla defaults and there are bindings worth knowing before you start."
     }
   ]
 }

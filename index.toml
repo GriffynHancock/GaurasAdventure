@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "476f5c623197258b0f441fe8b68ac8f7753182b948f01f48b53454670f8ac19b"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "3628f3440afd5a95ea2782c86209d22e17d8c39ffdbefbd4be2acba3e2b501b6"
 
@@ -3335,27 +3339,27 @@ hash = "1fb11eb1b78f1f361e3d595a8e8af9c5346cc04946e27926a092d5727910b311"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/bosses/block_factory.json"
-hash = "000b9210d8c3622dae3bebc1b439f36701e56e321a41dca531d168c0b449e0f4"
+hash = "9e772a16b55cdcc1d31b802f27962249d85f879ccdc9b36705c5cd164f32f7e8"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/bosses/mowzies.json"
-hash = "393d71bb536406bbdf09b6ecbae27d14721c65879cd02fadc2f1fdda86e18606"
+hash = "9253034b6ca8fcc4dd5084cc9e61459c567aed60ade1d7935362b2ba1aa68352"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/combat/epic_fight.json"
-hash = "874df651b3c8cffe99c5561daed55292f399114d9148a92a721b8736ac9b3aa8"
+hash = "bf47c302247ba483dea2429d061369c10a92d3f487a53e055ea61bfde904fa40"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/combat/parcool.json"
-hash = "1f458f3c5aee2a34f2ea71656023bfc5c83c352d7bafb119b7bcd3bc37ece170"
+hash = "0863f0e2c0364a6f4bebe331ef3d04eecdbb7909d1e73734835886e1d76898b6"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/engineering/create_basics.json"
-hash = "92bb584457d2565dab78dfde4ed02b3ea42707dda0f507ce4003a303e6613188"
+hash = "79773c5b55eb37785c6aee4d7f03f88af12ad8303943f1f2add46c05ce24a906"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/engineering/electricity.json"
-hash = "92f6994a15aa397322cccb30e92ae7ca6dc25e2a4b8df2ebcf4b34b7592e8a52"
+hash = "0f67e635310188b59e87a4216b9a3fce2618f68e74990081114a7db059a95f95"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/getting_started/controls.json"
@@ -3363,16 +3367,16 @@ hash = "2a34f54a5da280b655791fce4609fa76d7bdd0ffd0931f3e3edafc6e6a3e673a"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/getting_started/hookshot.json"
-hash = "8b7ce14658f1503a215055dcb0be497fb6e95f09719982d2a25bfdb9c2a37498"
+hash = "ecb8378897865357a3726bcefaaf048859ab959cb31575140615cfa3dab5f3cb"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/getting_started/welcome.json"
-hash = "35325ca12b684f35ceab7de1f5cb1676888348d0e768ea8e464781a690ccecc9"
+hash = "561f00d9b6cb077c25c7d2b29282a1e62677ac0538c3d3bf9894a6f1722b2621"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/magic/irons_spellbooks.json"
-hash = "6c168e13e7b3823565b1cd8b6b7caecff589d0afe8234d20f72c25bce19b052b"
+hash = "d264d6af03ccadb4b774a015ee65652ae1e3c59595912db74fbbb34f529e852d"
 
 [[files]]
 file = "patchouli_books/guide/modpack/en_us/entries/magic/spell_schools.json"
-hash = "23e69c066fb37bb51c4c716731dfcc8b2e9f458b8bd03d937b2eb77afe28344f"
+hash = "d7d41e8aef9e8607b35d85f7e7e1c9800d9de94cb1d328681e5f30c5b9d4d647"

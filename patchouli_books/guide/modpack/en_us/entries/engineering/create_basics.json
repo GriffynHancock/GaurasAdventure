@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Create runs on $(bold)Rotational Force$() measured in Stress Units (SU). Every machine costs SU; every generator produces SU. If demand exceeds supply, everything stalls.$(br2)Connect machines to generators with $(bold)Shafts$(). Change speed with $(bold)Gearboxes$() and $(bold)Cogwheels$(). Reverse direction with Gearboxes."
+      "text": "Create is aesthetic technology — machines that are beautiful to watch, satisfying to build, and genuinely powerful when properly designed.$(br2)Everything runs on $(bold)Rotational Force$(), measured in Stress Units (SU) at a given RPM. Every machine consumes SU; every generator produces it. Exceed supply and the whole network stalls. Balance is the core design loop."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Generators:$()$(br)$(bold)Water Wheel$() — 20 SU, ~20 RPM. Stick it in a flowing river. Free, reliable, low output.$(br)$(bold)Windmill$() — scales with sail count, up to ~4096 SU. Build a large sail array and attach to a Windmill Bearing.$(br)$(bold)Steam Engine$() — up to 16384 SU. Needs a heat source (lava, blaze burner)."
+      "text": "$(bold)Generators:$()$(br)$(bold)Water Wheel$() — place in flowing water. Low output (~256 SU at base speed), but free and always on.$(br)$(bold)Windmill$() — scales with sail count. Large sail arrays hit 8192+ SU. Needs open sky.$(br)$(bold)Steam Engine$() — needs a boiler, water, and heat (lava or blaze burners). High output, real infrastructure cost."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Essential machines:$()$(br)$(bold)Mechanical Press$() — sheets, packed items$(br)$(bold)Mechanical Mixer$() — alloys, mixing$(br)$(bold)Deployer$() — automated item placement$(br)$(bold)Mechanical Harvester$() — auto farming$(br)$(bold)Contraptions$() — moving multiblock machines$(br2)JEI/EMI show all Create recipes — check the Crafting entry for anything you're not sure about."
+      "text": "$(bold)Key machines:$()$(br)$(bold)Mechanical Press$() — flatten ingots into sheets, pack items$(br)$(bold)Mechanical Mixer$() — alloys and compound recipes$(br)$(bold)Deployer$() — hands that place or interact with the world$(br)$(bold)Harvester$() — automated crop collection on contraptions$(br)$(bold)Contraptions$() — move entire machines as a unit$(br2)EMI shows all Create recipes. The in-game Create Guidebook (crafted from a book) covers every mechanic in depth."
     }
   ]
 }

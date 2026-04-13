@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(bold)Fire$() — Direct damage, AoE burns. Best for aggressive close-range play.$(br2)$(bold)Ice$() — Slows and freezes enemies. Good for kiting or locking down tough mobs.$(br2)$(bold)Lightning$() — Fast projectiles, chain damage. High burst, moderate range."
+      "text": "Nine schools, each with a distinct identity and playstyle. Gear with school affinity directly boosts power for that school — specialize early for best results.$(br2)$(bold)Fire$() — Direct damage and AoE ignition. Aggressive, close-range, unsubtle.$(br2)$(bold)Ice$() — Slows, roots, and freezes. Strong for kiting or controlling boss movement.$(br2)$(bold)Lightning$() — Fast projectiles with chain arcs. Burst-heavy, punishes clustered enemies."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Holy$() — Healing + undead damage. Near-essential for solo bossing.$(br2)$(bold)Blood$() — Life drain, debuffs. Sustain-focused school.$(br2)$(bold)Evocation$() — Summons and constructs. Build a small army."
+      "text": "$(bold)Holy$() — Healing and enhanced damage against undead. Near-essential for sustained solo bossing.$(br2)$(bold)Blood$() — Life drain and debuffs. Sustain-through-combat school.$(br2)$(bold)Evocation$() — Summons creatures and constructs. Field a small army and fight from behind it."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Nature$() — Utility: roots, poison, movement buffs.$(br2)$(bold)Eldritch$() — High-damage chaotic spells. Costly but hits hard.$(br2)$(bold)Ender$() — Teleportation, blink, phase effects. Mobility-heavy.$(br2)Gear with matching school affinity boosts spell power for that school specifically."
+      "text": "$(bold)Nature$() — Roots, poison, movement enhancement. Utility and control.$(br2)$(bold)Eldritch$() — Chaotic, high-damage spells from beyond normal arcane theory. Expensive mana cost, punishing output.$(br2)$(bold)Ender$() — Teleportation, phase blink, dimensional effects. Pure mobility.$(br2)School-affinity gear stacks. A full affinity set at a given school meaningfully outperforms mixed gear."
     }
   ]
 }

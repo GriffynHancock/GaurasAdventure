@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Mowzie's Mobs adds boss-tier enemies that spawn in biome-specific structures. Mid-game difficulty — harder than most vanilla content but below Block Factory tier.$(br2)$(bold)Ferrous Wroughtnaut$() — Underground. Tank-like, cleaving attacks. Drops Wroughtnaut's Axe. Weak to specific damage types — look for openings."
+      "text": "Mowzie's Mobs fills the world with fictional creatures built around unique AI, rich atmosphere, and fluid animations. Each boss guards their own biome and drops an ability you can claim as your own. Mid-game tier — harder than vanilla, softer than Bosses' Rise.$(br2)$(bold)Ferrous Wroughtnaut$() — Underground iron giant. Slow, cleaving, extremely tanky. Has a damage-type weakness — figure it out and the fight opens up. Drops Wroughtnaut's Axe."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Frostmaw$() — Snowy biomes. Breath attack, high HP. Drops Ice Crystal (powerful melee weapon, applies frost slowness).$(br2)$(bold)Naga$() — Jungle biomes, underground lair. Fast, poison bite. Drops Fang Dagger with built-in poison proc."
+      "text": "$(bold)Frostmaw$() — Snowy biomes. Massive, high HP, ice breath. A war of attrition. Drops the Ice Crystal — a melee weapon that applies frost slowness on hit.$(br2)$(bold)Naga$() — Jungle underground lair. Fast, venomous, aggressive. Drops the Fang Dagger with built-in poison proc."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Barako$() — Savanna or Plains structures. Summons followers, uses magic attacks. Drops Sol Visage — a mask that lets you summon your own followers.$(br2)$(bold)General tip:$() Explore diverse biomes. Mowzie's structures are not always obvious. When you find one, scout it before engaging — the mobs inside hit hard."
+      "text": "$(bold)Barako, the Sun Chief$() — Savanna or Plains. Summons followers and commands with magic. Defeat him and claim the $(bold)Sol Visage$() — a mask that lets you summon your own warriors.$(br2)$(bold)General:$() Mowzie's structures blend into their biomes. Scout before engaging — the mobs inside are not passive, and their boss hits significantly harder than vanilla tier."
     }
   ]
 }

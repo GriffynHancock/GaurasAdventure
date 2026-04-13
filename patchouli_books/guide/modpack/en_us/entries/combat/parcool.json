@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "ParCool adds full parkour movement on top of Epic Fight. Both mods are active at the same time and share your stamina bar — parkour actions and dodges draw from the same pool.$(br2)No extra crafting needed. The moves are available immediately."
+      "text": "ParCool makes movement feel natural — wall jumps, vaults, slides, rolls, and ledge hangs are available from the moment you spawn. No crafting, no unlocks. Just move.$(br2)It runs alongside Epic Fight and both share the same stamina bar. Parkour and dodging pull from the same pool."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Key moves:$()$(br)$(bold)Wall Jump:$() Jump toward a wall, press jump again$(br)$(bold)Wall Run:$() Sprint at a wall at an angle$(br)$(bold)Vault:$() Sprint at a low obstacle$(br)$(bold)Roll:$() On landing from a fall$(br)$(bold)Hang:$() Grab ledges while falling$(br)$(bold)Slide:$() Sprint + sneak"
+      "text": "$(bold)Moves:$()$(br)$(bold)Wall Jump:$() Sprint at a wall, jump again on contact$(br)$(bold)Wall Run:$() Sprint at a wall diagonally (hold L-Alt)$(br)$(bold)Vault:$() Sprint into a 1-block obstacle$(br)$(bold)Roll:$() Land from a fall$(br)$(bold)Hang:$() Grab a ledge mid-fall$(br)$(bold)Slide:$() Sprint + Sneak$(br)$(bold)Crawl:$() Sneak under 1-block gaps"
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Stamina tip:$() Heavy parkour (wall-runs, charge jumps, flips) costs more stamina than basic moves (slides, crawl). If you're about to fight, don't blow your whole bar on traversal.$(br2)$(bold)Dodge conflict:$() If Epic Fight and ParCool both fire a dodge on the same key, remap one — see the Controls page."
+      "text": "$(bold)Stamina cost:$() Wall-runs, flips, and charge jumps are expensive. Basic moves like slides and crawls cost very little. Don't drain your bar on traversal if a fight is coming.$(br2)The $(bold)epic x parcool$() compatibility mod is installed — dodge key conflicts between the two are resolved automatically."
     }
   ]
 }

@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Iron's Spellbooks gives you 9 schools of magic, a mana bar, and a spell slot system.$(br2)Your $(bold)mana bar$() appears near the hunger bar (right side) when you're casting or below max mana. It refills over time."
+      "text": "Iron's Spells 'n Spellbooks brings back the classic RPG spellcasting fantasy — staffs, scrolls, arcane essence, and nine schools of magic with real mechanical depth.$(br2)Your $(bold)mana bar$() appears near your hunger bar when you're casting or below full. It regenerates passively over time."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)How to cast:$() Equip a spellbook in your offhand or mainhand, then right-click. To switch between spells in a book, scroll while holding it (or use the spell wheel key).$(br2)$(bold)Getting spells:$() Find scrolls and spellbooks in loot chests. Craft scrolls at a Scroll Forge (iron + paper + arcane essence). Upgrade scrolls at an Arcane Anvil."
+      "text": "$(bold)Casting:$() Equip a spellbook in mainhand or offhand, right-click to cast. Scroll while holding to cycle spells, or open the spell wheel (tilde key by default).$(br2)$(bold)Acquiring spells:$() Loot chests for scrolls and spellbooks. Craft scrolls at a $(bold)Scroll Forge$() (iron + paper + arcane essence). Upgrade spell tier at an $(bold)Arcane Anvil$()."
     },
     {
       "type": "patchouli:text",
-      "text": "$(bold)Starting gear:$() The Wandering Magician armor set is good for early magic builds — find pieces in village chests and dungeon loot. It boosts spell power and mana regen.$(br2)$(bold)Mana regen:$() Default regen is 1.0x. Standing still or sneaking doesn't speed it up. Plan your combat around cooldowns, not mana pooling."
+      "text": "$(bold)Early gear:$() The $(bold)Wandering Magician$() set is a strong early pick for magic builds — pieces appear in village chests and dungeon loot. Improves spell power and mana regeneration.$(br2)$(bold)Mana regen:$() Passive and constant — standing still does not accelerate it. Design your combat around spell cooldowns and mana efficiency, not waiting for refills."
     }
   ]
 }
