@@ -1,0 +1,13 @@
+name = "Infinity and Mending"
+filename = "infinity-mending-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ntU7wRQ0/versions/SeBuCHHb/infinity-mending-2.jar"
+hash-format = "sha512"
+hash = "b301943490db5c2adfa207288eefd54ae3f148e477c434d3d1d15bb5bee89dc96b2f85187f7b8fe00d329ec45ae895b798409871cb2e5327293f5059cf435e08"
+
+[update]
+[update.modrinth]
+mod-id = "ntU7wRQ0"
+version = "SeBuCHHb"

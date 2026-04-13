@@ -1,0 +1,21 @@
+{
+  "name": "The Hookshot",
+  "category": "guide:getting_started",
+  "icon": "hooked:iron_hook",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Craft an Iron Hook as soon as you have iron. It's one of the best early-game items in the pack.$(br2)Shoot it with right-click. You'll pull toward whatever it hits. If you're falling, shoot the wall — you'll hang. Shoot the ceiling — you'll hang from it."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tiers:$()$(br)Iron Hook — basic, gets you around$(br)Diamond Hook — faster pull speed$(br)Ender Hook — fastest, longer range$(br2)$(bold)Multiple hooks:$() If you fire two hooks into different walls, you hover at their midpoint. Useful for bridging gaps or staying in position for ranged combat."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "hooked:iron_hook",
+      "text": "Iron + sticks. Upgrade to Diamond and Ender versions the same way with better materials."
+    }
+  ]
+}

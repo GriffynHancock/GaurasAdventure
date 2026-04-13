@@ -1,0 +1,28 @@
+{
+  "name": "Controls",
+  "category": "guide:getting_started",
+  "icon": "minecraft:comparator",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "These bindings are pre-set in options.txt. On first launch, verify them in $(bold)Options > Controls$().$(br2)Changes from vanilla defaults:$(br)$(bold)Y$() — View Recipes (was R)$(br)$(bold)X$() — Target Lock-On (was Tab)$(br)$(bold)N$() — Mute mic (frees M for map)$(br)$(bold)C/X/G unbound$() from vanilla Creative toolbar saves$(br)$(bold)ParCool dodge$() — unbound (EF handles it)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)— Movement —$()$(br)$(bold)W A S D$() Move$(br)$(bold)Space$() Jump / Wall Jump$(br)$(bold)L-Ctrl$() Sprint$(br)$(bold)G$() (hold) Fast Run — ParCool speed burst$(br)$(bold)L-Shift$() Sneak / Dodge direction$(br)$(bold)C$() Crawl; slide when sprinting$(br)$(bold)L-Alt$() (hold) Horizontal Wall Run$(br)$(bold)F$() Swap hands — weapon ↔ spellbook"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)— Combat —$()$(br)$(bold)R$() Toggle Battle Mode (Epic Fight)$(br)$(bold)X$() Target Lock-On$(br)$(bold)L-Shift + dir$() Dodge (costs stamina)$(br)$(bold)L-Mouse$() Attack / mine$(br)$(bold)R-Mouse$() Use / place / cast spell$(br)$(bold)` (tilde)$() Spell wheel (ISB)$(br)$(bold)Scroll$() Cycle spells in held spellbook$(br)$(bold)F$() Swap to spellbook mid-fight$(br)$(bold)K$() Skill loadout (Epic Fight)$(br)$(bold)J$() Skill tree$(br2)Stamina bar (bottom-left) is shared by Epic Fight dodge and all ParCool moves."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)— World & Inventory —$()$(br)$(bold)E$() Inventory$(br)$(bold)1–9$() Hotbar$(br)$(bold)Q$() Drop item$(br)$(bold)Mid-Mouse$() Pick block$(br)$(bold)B$() Open backpack$(br)$(bold)R-Alt$() Pick up mob/block (Carry On)$(br)$(bold)Tab$() Player list$(br)$(bold)M$() Open world map$(br)$(bold)H$() Waypoint list$(br)$(bold)Z$() Minimap settings$(br)$(bold)L$() Advancements"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)— Recipes & Communication —$()$(br)$(bold)Y$() View recipes (EMI)$(br)$(bold)U$() View uses (EMI)$(br)$(bold)T$() Chat$(br)$(bold)/$() Command$(br)$(bold)V$() Push to Talk$(br)$(bold)N$() Mute mic toggle$(br2)$(bold)Note on mod key names:$() options.txt seeds these at launch. If a mod binding didn't apply, set it once in Options > Controls — it persists from there."
+    }
+  ]
+}

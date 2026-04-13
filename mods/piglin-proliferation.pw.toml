@@ -1,0 +1,13 @@
+name = "Piglin Proliferation"
+filename = "piglinproliferation-1.21.1-2.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iRE67WIn/versions/rdlzJhO9/piglinproliferation-1.21.1-2.0.13.jar"
+hash-format = "sha512"
+hash = "2b156c3cc7b066f7f0740d985dcdc727cef6dd958595ee187727a8117a4e335bbcd57c23174d8a1bf61efc3c17c384b2132b9be0aa2207ce3bc4b88678e3f339"
+
+[update]
+[update.modrinth]
+mod-id = "iRE67WIn"
+version = "rdlzJhO9"

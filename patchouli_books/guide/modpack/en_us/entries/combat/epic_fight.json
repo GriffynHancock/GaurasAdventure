@@ -1,0 +1,20 @@
+{
+  "name": "Epic Fight",
+  "category": "guide:combat",
+  "icon": "minecraft:iron_sword",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Press $(bold)R$() to toggle Battle Mode. In Battle Mode your attacks become directional combos and you gain access to dodge.$(br2)$(bold)Dodge:$() Hold Sneak + movement direction. Costs stamina. The stamina bar appears bottom-left of your screen."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Stamina is shared with ParCool.$() Wall-runs, vaults, and parkour moves drain the same bar as dodging. Manage it — running out mid-fight means no dodges.$(br2)$(bold)Combos:$() Hold attack to chain hits. Each weapon type has different combo patterns. Experiment."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Skill Tree:$() Find Skill Books in loot. Basic skills spawn in Ruined Portals; advanced skills come from dungeons and cities.$(br2)The skill tree has 9 categories. Pick a direction early — trying to spread points thin doesn't work well. Warrior, Berserker, and Rogue are strong starting paths."
+    }
+  ]
+}

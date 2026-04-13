@@ -1,0 +1,13 @@
+name = "Create: Better Pumps"
+filename = "createbetterpumps-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7gVH7Bx8/versions/zPso6L0N/createbetterpumps-0.0.3.jar"
+hash-format = "sha512"
+hash = "47ec1099bd7cc0525bfe9827339f776f7cac94b5c3e8c5053cf95db86f6c9153deecab016f8ce380f1d97e3548727385f99203908a3e6037dba478facd88915e"
+
+[update]
+[update.modrinth]
+mod-id = "7gVH7Bx8"
+version = "zPso6L0N"

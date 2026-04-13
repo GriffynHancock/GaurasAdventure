@@ -1,0 +1,20 @@
+{
+  "name": "Spell Schools",
+  "category": "guide:magic",
+  "icon": "irons_spellbooks:fire_spell_book",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Fire$() — Direct damage, AoE burns. Best for aggressive close-range play.$(br2)$(bold)Ice$() — Slows and freezes enemies. Good for kiting or locking down tough mobs.$(br2)$(bold)Lightning$() — Fast projectiles, chain damage. High burst, moderate range."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Holy$() — Healing + undead damage. Near-essential for solo bossing.$(br2)$(bold)Blood$() — Life drain, debuffs. Sustain-focused school.$(br2)$(bold)Evocation$() — Summons and constructs. Build a small army."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Nature$() — Utility: roots, poison, movement buffs.$(br2)$(bold)Eldritch$() — High-damage chaotic spells. Costly but hits hard.$(br2)$(bold)Ender$() — Teleportation, blink, phase effects. Mobility-heavy.$(br2)Gear with matching school affinity boosts spell power for that school specifically."
+    }
+  ]
+}

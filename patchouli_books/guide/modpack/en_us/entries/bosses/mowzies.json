@@ -1,0 +1,20 @@
+{
+  "name": "Mowzie's Mobs",
+  "category": "guide:bosses",
+  "icon": "minecraft:iron_axe",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mowzie's Mobs adds boss-tier enemies that spawn in biome-specific structures. Mid-game difficulty — harder than most vanilla content but below Block Factory tier.$(br2)$(bold)Ferrous Wroughtnaut$() — Underground. Tank-like, cleaving attacks. Drops Wroughtnaut's Axe. Weak to specific damage types — look for openings."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Frostmaw$() — Snowy biomes. Breath attack, high HP. Drops Ice Crystal (powerful melee weapon, applies frost slowness).$(br2)$(bold)Naga$() — Jungle biomes, underground lair. Fast, poison bite. Drops Fang Dagger with built-in poison proc."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Barako$() — Savanna or Plains structures. Summons followers, uses magic attacks. Drops Sol Visage — a mask that lets you summon your own followers.$(br2)$(bold)General tip:$() Explore diverse biomes. Mowzie's structures are not always obvious. When you find one, scout it before engaging — the mobs inside hit hard."
+    }
+  ]
+}

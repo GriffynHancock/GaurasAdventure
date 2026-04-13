@@ -1,0 +1,13 @@
+name = "Epic Fight: Skill Tree"
+filename = "epicfight-skilltree-neoforge-21.3.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PezbUFun/versions/kW4bdi3K/epicfight-skilltree-neoforge-21.3.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "7726a76d6d520486a017470b36fa6632b736ca3004f36aadb6e6a14c28a4c0afdf10c7fc86910de11dd09eb418df0c5c4df4362b96b2e1c111eb7e9dd3c4bd80"
+
+[update]
+[update.modrinth]
+mod-id = "PezbUFun"
+version = "kW4bdi3K"

@@ -1,0 +1,13 @@
+name = "Epic Fight - Rapier Moveset Addon"
+filename = "refm-0.3.10-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ivpOJhFM/versions/ibllFEuV/refm-0.3.10-1.21.1.jar"
+hash-format = "sha512"
+hash = "d09d1398f6c07ffb2147e4957267370b52c7faf377ffeef7345b5b49e561d5e534550c69f1c31276b02a25be09183911d36959d8839d05551e5d6577f1ff77f5"
+
+[update]
+[update.modrinth]
+mod-id = "ivpOJhFM"
+version = "ibllFEuV"

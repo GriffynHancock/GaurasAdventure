@@ -1,0 +1,34 @@
+{
+  "allowMovement": {
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "net.createmod.ponder.foundation.ui.PonderUI": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "cc.cosmetica.cosmetica.gui.OutfitWheelScreen": true,
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": true,
+    "cc.cosmetica.kupe.impl.KupeScreen": true,
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
+    "yesman.epicfight.client.gui.screen.SkillEditScreen": true,
+    "io.wispforest.accessories.client.gui.ScreenVariantSelectionScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true
+  },
+  "hideBackground": {
+    "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "yesman.epicfight.client.gui.screen.SkillEditScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true
+  }
+}

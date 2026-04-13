@@ -1,0 +1,13 @@
+name = "Break My Fall"
+filename = "break_my_fall-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZNhcuAvG/versions/TTll0Vcm/break_my_fall-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "34f5f5ad5203a63b040dab439d5626c044b65e1eb264245e2d203768645fb7d9fb76bfef41a93a10a39d5d8a819c5fe4505fe520e0131d969e025d4b7f9a7dee"
+
+[update]
+[update.modrinth]
+mod-id = "ZNhcuAvG"
+version = "TTll0Vcm"

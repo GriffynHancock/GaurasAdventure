@@ -1,0 +1,13 @@
+name = "Quality Food"
+filename = "quality_food-1.21.1-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ahdn1OE0/versions/vLFBpk1n/quality_food-1.21.1-2.3.3.jar"
+hash-format = "sha512"
+hash = "fa5be521c07d20f685e00e8a299074c8e4e8f485fc6fb3cd8af32db1f25f67d58de074040a5ca1ac1e19a5e2c350d89e9bfea63f9352d00a3b0c2ab0e022ca4d"
+
+[update]
+[update.modrinth]
+mod-id = "Ahdn1OE0"
+version = "vLFBpk1n"

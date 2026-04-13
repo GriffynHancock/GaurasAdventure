@@ -1,0 +1,13 @@
+name = "Iron's Lib"
+filename = "irons_patreon_lib-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/bMwxBAZy/irons_patreon_lib-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "6bd55db5624356306ca194532b43a7414c8dd0357fdbcff5c3034d497a1a806f02ce88096561242337cfd87b13a7c38c0a4802442120e52f1dac0b22999f842d"
+
+[update]
+[update.modrinth]
+mod-id = "9nfaJPtX"
+version = "bMwxBAZy"

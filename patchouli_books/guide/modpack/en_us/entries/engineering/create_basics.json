@@ -1,0 +1,20 @@
+{
+  "name": "Create Basics",
+  "category": "guide:engineering",
+  "icon": "create:wrench",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Create runs on $(bold)Rotational Force$() measured in Stress Units (SU). Every machine costs SU; every generator produces SU. If demand exceeds supply, everything stalls.$(br2)Connect machines to generators with $(bold)Shafts$(). Change speed with $(bold)Gearboxes$() and $(bold)Cogwheels$(). Reverse direction with Gearboxes."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Generators:$()$(br)$(bold)Water Wheel$() — 20 SU, ~20 RPM. Stick it in a flowing river. Free, reliable, low output.$(br)$(bold)Windmill$() — scales with sail count, up to ~4096 SU. Build a large sail array and attach to a Windmill Bearing.$(br)$(bold)Steam Engine$() — up to 16384 SU. Needs a heat source (lava, blaze burner)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Essential machines:$()$(br)$(bold)Mechanical Press$() — sheets, packed items$(br)$(bold)Mechanical Mixer$() — alloys, mixing$(br)$(bold)Deployer$() — automated item placement$(br)$(bold)Mechanical Harvester$() — auto farming$(br)$(bold)Contraptions$() — moving multiblock machines$(br2)JEI/EMI show all Create recipes — check the Crafting entry for anything you're not sure about."
+    }
+  ]
+}

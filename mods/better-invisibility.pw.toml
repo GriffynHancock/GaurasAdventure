@@ -1,0 +1,13 @@
+name = "Better Invisibility"
+filename = "betterinvisibility-1.21.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2bWqAawN/versions/nutAPZ1B/betterinvisibility-1.21.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "72a30f6ba666769a3ebd07374df23be72fa3f70c1b774684702c151d9dd0727dbb770a3170800e2335b4ed032c2ad19a04fe33cbcf0f7cd7b2fb352a8902a7b6"
+
+[update]
+[update.modrinth]
+mod-id = "2bWqAawN"
+version = "nutAPZ1B"

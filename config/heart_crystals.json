@@ -1,0 +1,8 @@
+{
+  "addHeartCrystalShardsToDungeonLoot": true,
+  "maxLife": 80,
+  "starterLife": 20,
+  "lifeIncrement": 1,
+  "resetOnDeath": false,
+  "lifeLostOnDeath": 0
+}

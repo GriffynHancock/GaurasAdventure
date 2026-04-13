@@ -1,0 +1,20 @@
+{
+  "name": "ParCool",
+  "category": "guide:combat",
+  "icon": "minecraft:leather_boots",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "ParCool adds full parkour movement on top of Epic Fight. Both mods are active at the same time and share your stamina bar — parkour actions and dodges draw from the same pool.$(br2)No extra crafting needed. The moves are available immediately."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Key moves:$()$(br)$(bold)Wall Jump:$() Jump toward a wall, press jump again$(br)$(bold)Wall Run:$() Sprint at a wall at an angle$(br)$(bold)Vault:$() Sprint at a low obstacle$(br)$(bold)Roll:$() On landing from a fall$(br)$(bold)Hang:$() Grab ledges while falling$(br)$(bold)Slide:$() Sprint + sneak"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Stamina tip:$() Heavy parkour (wall-runs, charge jumps, flips) costs more stamina than basic moves (slides, crawl). If you're about to fight, don't blow your whole bar on traversal.$(br2)$(bold)Dodge conflict:$() If Epic Fight and ParCool both fire a dodge on the same key, remap one — see the Controls page."
+    }
+  ]
+}

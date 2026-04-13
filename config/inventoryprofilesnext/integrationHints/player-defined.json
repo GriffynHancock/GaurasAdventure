@@ -1,0 +1,12 @@
+{
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 20
+            },
+            "SETTINGS": {
+                "top": 19
+            }
+        }
+    }
+}

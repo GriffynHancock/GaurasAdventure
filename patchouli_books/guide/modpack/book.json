@@ -1,0 +1,9 @@
+{
+  "name": "Gaura's Adventure Book",
+  "landing_text": "Everything you need to know about this modpack. Pick a category.",
+  "version": "1",
+  "i18n": false,
+  "creative_tab": "misc",
+  "model": "patchouli:book_blue",
+  "show_progress": false
+}

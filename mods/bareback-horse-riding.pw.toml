@@ -1,0 +1,13 @@
+name = "Bareback Horse Riding"
+filename = "barebackhorseriding-1.21.1-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gc78ZRwD/versions/KvWMLqgJ/barebackhorseriding-1.21.1-2.3.jar"
+hash-format = "sha512"
+hash = "2c1c70d255295806a78440951ed80a5db7e40336c5c9edcfad1ff2166ecd40175e474d0fcae2c58b89068fefc4862555fb51bc0d4411c1f40515710eac2d68c1"
+
+[update]
+[update.modrinth]
+mod-id = "gc78ZRwD"
+version = "KvWMLqgJ"

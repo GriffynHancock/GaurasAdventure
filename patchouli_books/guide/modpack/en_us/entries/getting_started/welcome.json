@@ -1,0 +1,20 @@
+{
+  "name": "Welcome",
+  "category": "guide:getting_started",
+  "icon": "minecraft:book",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Here's what's in this pack and roughly what to do with it.$(br2)$(bold)Early game:$() Get iron fast. Craft a hookshot (Iron Hook) — it changes how the whole map feels. Parkour moves (vaults, wall-runs) are available immediately."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Mid game:$() Explore for Mowzie's Mobs bosses. Start a Create setup — even a water wheel and a few machines goes a long way. Learn a spell school or two.$(br2)$(bold)Late game:$() Kill Block Factory bosses for top-tier armor. Build electricity with Create New Age. Go deep on the skill tree."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Recipe viewers:$() EMI is your main browser (left side of screen). JEI is also loaded for Create addon compatibility but its panel is hidden — use EMI for browsing.$(br2)Read the Controls page before you start. There are a few key conflicts you'll want to fix."
+    }
+  ]
+}
