@@ -1,0 +1,13 @@
+name = "Through the lily pads, gently"
+filename = "through_the_lilypads_gently--mc1.21.1--neoforge--1.2.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/i8eTQgbq/versions/d7bFC8AY/through_the_lilypads_gently--mc1.21.1--neoforge--1.2.3.jar"
+hash-format = "sha512"
+hash = "888877caa4cc4bac9ab01dcdeb22456657f40786d61e62aeb0bfe6a4dda9b331f9ab627b41f0bd14f6896b4b352f15a0458d7ae330468f109174b7e6e0d24aa3"
+
+[update]
+[update.modrinth]
+mod-id = "i8eTQgbq"
+version = "d7bFC8AY"

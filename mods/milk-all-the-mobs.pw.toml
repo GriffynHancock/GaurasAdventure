@@ -1,0 +1,13 @@
+name = "Milk All The Mobs"
+filename = "milkallthemobs-1.21.1-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qRidloO4/versions/kgKzMjwF/milkallthemobs-1.21.1-3.4.jar"
+hash-format = "sha512"
+hash = "abfbf752992bb8d99668cb382e609748af415a8d14fa2812ba79fd589a4eb33dfc537d7a7eeae2ab4a62a72d697ccead47ea47d18129692dbe05c846bf468e41"
+
+[update]
+[update.modrinth]
+mod-id = "qRidloO4"
+version = "kgKzMjwF"
